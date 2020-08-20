@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textView_prompt">"Choisissez an animal: "</string>
+    <string name="dog">Chien</string>
+    <string name="cat">chat</string>
+    <string name="pig">cochon</string>
+    <string name="horse">cheval</string>
+</resources>
